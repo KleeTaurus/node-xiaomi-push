@@ -7,3 +7,4 @@ MiPush.NOTIFY_FOREGROUND = require('./lib/const.js').NOTIFY_FOREGROUND;
 MiPush.PASS_THROUGH = require('./lib/const.js').PASS_THROUGH;
 
 module.exports = exports = MiPush;
+
